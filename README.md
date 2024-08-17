@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Package
+- lottie: ^3.1.2
+- another_flutter_splash_screen: ^1.2.1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

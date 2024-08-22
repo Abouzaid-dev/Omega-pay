@@ -1,6 +1,5 @@
 import 'package:another_flutter_splash_screen/another_flutter_splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:omega_pay/home_page.dart';
 import 'package:omega_pay/onboarding_screen.dart';
 
 
